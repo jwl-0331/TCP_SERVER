@@ -1,0 +1,10 @@
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\MyTcpServer.csproj.AssemblyReference.cache
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\MyTcpServer.Properties.Resources.resources
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\MyTcpServer.csproj.GenerateResource.cache
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\MyTcpServer.csproj.CoreCompileInputs.cache
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\TcpServer.Form1.resources
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\bin\Debug\MyTcpServer.exe.config
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\bin\Debug\MyTcpServer.exe
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\bin\Debug\MyTcpServer.pdb
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\MyTcpServer.exe
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpServer\MyTcpServer\obj\Debug\MyTcpServer.pdb
